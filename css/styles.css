@@ -89,11 +89,12 @@ a {
     border-radius: 0px;
 }
 .btn:hover {
-background: #E24040;
+background: #110303;
+color: white;
 }
 
 .btn-primary {
-    background: #CC4646;
+    background: #4660cc;
 }
 
 .form-control {
@@ -302,7 +303,7 @@ background: none;
     }
 
 .page-section h2 {
-    color: #CC4646;
+    color: #4660cc;
 }
 
 .page-section p {
@@ -315,7 +316,7 @@ background: none;
 }
 
     .darkBg .fa {
-        color: #CC4646;
+        color: #4660cc;
     }
 /*--- Banner ----*/
 .banner-container {
